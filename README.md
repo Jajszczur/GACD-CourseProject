@@ -44,7 +44,7 @@ The data is processed with the following steps:
 -  Each variable is in one column.
 -  Each observation is in a different row.
 -  The file includes a row with variable names.
--  Vrunariable names are human readable.
+-  Variable names are human readable.
 
 The variables in the tidy data set are:
 
